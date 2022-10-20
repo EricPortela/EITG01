@@ -1,2 +1,2 @@
 # EITG01
-"Dator- &amp; telekommunikation", EITG01
+Dator- &amp; telekommunikation, EITG01
